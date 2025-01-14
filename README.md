@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi91124&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=radical&hide_border=true&custom_title=Code%20Arsenal" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=prachi91124&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=30&date_format=M%20j%5B,%20Y%5D" height="270" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi91124&custom_title=Prachi's%20Commit%20Chronicles&theme=redical&radius=16&hide_border=true&area=false" height="230" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=prachi91124&theme=dark_lover&no-frame=true&no-bg=true&column=1&row=1&margin-w=1&margin-h=1" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=prachi91124&theme=monokai&no-frame=true&no-bg=true&column=5&row=1&margin-w=2&margin-h=0" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -80,11 +80,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prachi91124/prachi91124/output/snake.svg" alt="Snake animation" />
 
 ###
